@@ -3,5 +3,10 @@
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.sawenmoerjie.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "博客（cf）",
+    "link": "https://cf.sawenmoerjie.top/"
   }
 ]

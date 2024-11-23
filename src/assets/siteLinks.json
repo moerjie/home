@@ -6,7 +6,12 @@
   },
   {
     "icon": "Cloud",
-    "name": "博客（cf）",
-    "link": "https://cf.sawenmoerjie.top/"
+    "name": "博客（Xlog）",
+    "link": "https://moerjielovecookie-4735.xlog.app/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://nav.sawenmoerjie.top/"
   }
 ]

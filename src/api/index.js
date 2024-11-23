@@ -55,14 +55,14 @@ export const getHitokoto = async () => {
 
 // 获取高德地理位置信息
 export const getAdcode = async (key) => {
-  const res = await fetch(`https://restapi.amap.com/v3/ip?key=${key}`);
+  const res = await fetch(`https://restapi.amap.com/v3/ip?key=${a5950e95dbdb581250a3ac5a37754c7e}`);
   return await res.json();
 };
 
 // 获取高德地理天气信息
 export const getWeather = async (key, city) => {
   const res = await fetch(
-    `https://restapi.amap.com/v3/weather/weatherInfo?key=${a5950e95dbdb581250a3ac5a37754c7e}&city=${Beijing}}`,
+    `https://restapi.amap.com/v3/weather/weatherInfo?key=${a5950e95dbdb581250a3ac5a37754c7e}&city=${110105}`,
   );
   return await res.json();
 };
